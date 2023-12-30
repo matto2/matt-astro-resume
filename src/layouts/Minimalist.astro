@@ -2,6 +2,8 @@
 import "@fontsource/poppins";
 import Download from "../components/Download.astro";
 import "../styles.css";
+import { Image } from 'astro:assets';
+import myImage from "../assets/Matt-pic.jpg"; // Image is 140x140
 
 type Props = {
   frontmatter: {
@@ -38,15 +40,9 @@ const initials = title
   <body class={!PDF_VIEW ? "bg-indigo-50 dark:bg-slate-900 sm:my-14" : ""}>
     <div class="container mx-auto flex justify-center">
       <article class="minimalist relative">
-        <div
-          class="absolute top-4 rounded-sm bg-indigo-400 px-4 py-1 sm:left-8 sm:top-12"
-        >
-          <div
-            class="flex h-fit select-none flex-col items-center text-sm font-bold"
-          >
-            {initials.map((initial) => <span>{initial}</span>)}
-          </div>
-        </div>
+      <div>
+     <Image src={myImage} alt="my face." width=80 class="rounded-lg">
+    </div>
         {
           !PDF_VIEW && (
             <div class="not-prose absolute right-4 top-4">
