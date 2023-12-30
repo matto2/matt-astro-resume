@@ -1,58 +1,110 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Matthew O'Leary - Resume
+description: Resume of Matthew O'Leary
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# **Matthew O'Leary**
 
-**Programmer**
+_Graphic and Product Designer_
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Seaside, California  
+831-234-7766  
+[LinkedIn](https://www.linkedin.com/in/matt-oleary) | [Portfolio](https://mattoleary.design)
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+---
 
-## Work Experience
+## **Professional Summary**
 
-### [Google](https://www.google.com/)
+Experienced Graphic and Product Designer specializing in enterprise SaaS, UX/UI, and graphic design. Proven track record in optimizing user experiences and developing design systems. Proficient in print, packaging, and publication design, as well as web design and development, marketing communications, and branding. Leveraging AI for all work as appropriate, ensuring innovative and effective solutions.
 
-#### Senior Software Engineer | Oct 2022 - Current
+---
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+## **Skills**
 
-#### Software Engineer | Aug 2018 - Oct 2022
+- User Experience (UX) and User Interface (UI) Design
+- Graphic Design
+- Web Design and Development
+- Mobile App Design
+- Brand Identity and Branding
+- Prototyping and Rapid Iteration
+- Soft Skills (Effective communication, collaboration, and problem-solving)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+---
 
-### [Pied Piper](http://piedpiper.com/)
+## **Work Experience**
 
-#### CEO/President | Dec 2013 - Dec 2014
+### _Freelance Website Design and Development_
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+_Seaside, March 2016 – Present_
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Design and develop websites for individuals and businesses
+- User Experience and Interaction Design
+- WordPress development
+- SEO optimization
+- Design for accessibility
+- HTML, CSS, JS, Astro.js
 
-## Projects
+### _Senior Product Designer_
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+_Wiser Solutions, San Mateo (Remote), April 2022 – March 2023_
 
-#### Video Compression for 3D Media
+- Developed digital products for pricing and brand protection, enhancing overall product performance.
+- Created and tested prototypes, ensuring optimal user experiences and collaborating with development teams.
+- Led virtual meetings and conducted impactful usability testing sessions.
+- Refined design systems for brand consistency and scalability.
+- Collaborated with Marketing to promote new products and educate customers.
+- Crafted marketing and transactional emails using Mailchimp and SendGrid.
+- Authored content for UI, optimizing notifications, instructions, and button labels for enhanced user engagement.
 
-#### Founder | Oct 2014
+### _Senior Product Designer_
 
-Innovative middle-out compression algorithm that changes the way we store data.
+_Axway, Phoenix (Remote), March 2018 – April 2022_
 
-## Languages
+- Optimized product performance and utility through the development of user journeys.
+- Transformed product requirements into user flows, utilizing white-boarding and sketching.
+- Conducted onsite and remote usability testing programs with customers.
+- Established and maintained compliance with Web Content Accessibility Guidelines (WCAG) 2.0.
+- Designed for web, mobile-web, and native platforms (Android and iOS).
+- Authored content for UI, ensuring clarity in notifications, instructions, and button labels.
 
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
+### _Product Designer_
 
-## Education
+_Kiteworks, Palo Alto, August 2014 – February 2018_
 
-### University of Oklahoma
+- Redesigned the entire web UI, resulting in higher engagement and reduced churn.
+- Crafted strategic product design solutions, informed by user research and usability testing.
+- Wrote content for UI, optimizing notifications, instructions, and button labels for improved user experience.
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+### _Design Engineer_
+
+_FastPencil, Campbell, November 2011 – May 2014_
+
+- Redesigned the entire FastPencil cloud-based publishing platform, emphasizing overall experience and interface.
+- Developed book covers, templates, and marketing websites for authors.
+
+### _Production Manager_
+
+_McDill Associates, September 2008 – November 2011_
+
+- Managed design and development of consumer packaged goods.
+- Ensured compliance with U.S. and Canada regulations for food package labels.
+- Designed packaging, advertising, catalogs, signage, and marketing communications.
+- Created award-winning photo-illustrations for Martinelli’s sparkling and organic apple juice lines.
+- Conducted email campaigns using Mailchimp.
+
+### _Prepress Manager_
+
+_West Marine, Watsonville, CA, October 2001 – September 2008_
+
+- Established an internal prepress department, saving approximately $1 million over two years.
+- Supervised image coordinator and prepress assistants.
+- Designed logos, gift cards, coupon books, promotional signage, and special projects.
+
+---
+
+## **Education**
+
+_Santa Cruz High School, Santa Cruz_  
+_High School Diploma_
